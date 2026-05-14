@@ -4,7 +4,7 @@ faiss-cpu
 numpy
 pypdf
 python-docx
-google-generativeai
+google-genai
 torch
 transformers
 scikit-learn
