@@ -9,3 +9,4 @@ torch
 transformers
 scikit-learn
 scipy
+python-dotenv
