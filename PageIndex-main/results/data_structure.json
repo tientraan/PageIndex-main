@@ -1,0 +1,97 @@
+{
+  "doc_name": "data",
+  "line_count": 297,
+  "structure": [
+    {
+      "title": "PageIndex: Vectorless, Reasoning-based RAG",
+      "node_id": "0001",
+      "line_num": 14
+    },
+    {
+      "title": "📑 Introduction to PageIndex",
+      "node_id": "0002",
+      "line_num": 46,
+      "nodes": [
+        {
+          "title": "🎯 Core Features",
+          "node_id": "0003",
+          "line_num": 62
+        },
+        {
+          "title": "📍 Explore PageIndex",
+          "node_id": "0004",
+          "line_num": 73
+        },
+        {
+          "title": "🛠️ Deployment Options",
+          "node_id": "0005",
+          "line_num": 79
+        },
+        {
+          "title": "🧪 Quick Hands-on",
+          "node_id": "0006",
+          "line_num": 84
+        }
+      ]
+    },
+    {
+      "title": "🌲 PageIndex Tree Structure",
+      "node_id": "0007",
+      "line_num": 106
+    },
+    {
+      "title": "⚙️ Package Usage",
+      "node_id": "0008",
+      "line_num": 144,
+      "nodes": [
+        {
+          "title": "1. Install dependencies",
+          "node_id": "0009",
+          "line_num": 150
+        },
+        {
+          "title": "2. Set your LLM API key",
+          "node_id": "0010",
+          "line_num": 156
+        },
+        {
+          "title": "3. Generate PageIndex structure for your PDF",
+          "node_id": "0011",
+          "line_num": 164
+        },
+        {
+          "title": "Agentic Vectorless RAG: An Example",
+          "node_id": "0012",
+          "line_num": 198
+        }
+      ]
+    },
+    {
+      "title": "☁️ Improved Tree Generation with PageIndex OCR",
+      "node_id": "0013",
+      "line_num": 211
+    },
+    {
+      "title": "📈 Case Study: PageIndex Leads Finance QA Benchmark",
+      "node_id": "0014",
+      "line_num": 227
+    },
+    {
+      "title": "🧭 Resources",
+      "node_id": "0015",
+      "line_num": 243
+    },
+    {
+      "title": "⭐ Support Us",
+      "node_id": "0016",
+      "line_num": 252,
+      "nodes": [
+        {
+          "title": "Connect with Us",
+          "node_id": "0017",
+          "line_num": 283
+        }
+      ]
+    }
+  ]
+}
